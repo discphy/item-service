@@ -1,2 +1,2 @@
 # item-service
-🌱 Learn Item Service of Spring MVC 
+🌱 Learn Item Service Example of Spring MVC 
